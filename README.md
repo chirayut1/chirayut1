@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @chirayut1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chirayut1/chirayut1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ https://github.com/facebook/facebook-ios-sdk
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb3106467212998361</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>3106467212998361</string>
+<key>FacebookDisplayName</key>
+<string>https://g.dev/moneyquick88</string>
