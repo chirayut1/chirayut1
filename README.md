@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb671281660849759</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>671281660849759</string>
+<key>FacebookDisplayName</key>
+<string>เเอบ iOS 14.5 SDK ล่าสุด</string>
